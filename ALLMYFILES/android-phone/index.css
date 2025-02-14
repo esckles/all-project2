@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.Main-Screen {
+    width: 40%;
+    height: 90%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-1 {
+    width: 70%;
+    height: 100%;
+    /* background-color: bisque; */
+    border-radius: 32px;
+    background-image: url(./Screenshot_20240725-013907_1.jpg);
+    background-size: contain;
+}
+
+
+
+
+
+
+
+
+.row-1 {
+    width: 100%;
+    height: 18%;
+    /* background-color: red; */
+}
+.sim-role {
+    width: 100%;
+    height: 50%;
+    /* background-color: blue; */
+    background-image: url(./Screenshot\ 2024-08-10\ 140449.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.Search-1 {
+    width: 100%;
+    height: 50%;
+    /* background-color: green; */
+    border: none;
+    
+}
+input {
+    width: 67%;
+    height: 80%;
+    border-radius: 9px;
+    padding: 10px;
+}
+.row-2 {
+    width: 100%;
+    height: 16%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.row-bx1 {
+    width: 16%;
+    height: 63%;
+    /* background-color: pink; */
+    border-radius: 10px;
+    background-image: url(./Screenshot\ 2024-08-10\ 150131.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row-bx2 {
+    width: 20%;
+    height: 69%;
+    /* background-color: purple; */
+    background-image: url(./Screenshot\ 2024-08-10\ 151347.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.row-bx3 {
+    width: 20%;
+    height: 67%;
+    /* background-color: rgb(255, 192, 248); */
+    background-image: url(./Screenshot\ 2024-08-10\ 151358.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.row-bx4 {
+    width: 20%;
+    height: 68%;
+    /* background-color: brown; */
+    background-image: url(./Screenshot\ 2024-08-10\ 151407.png);
+    background-size: cover;
+
+}
+
+.row-3 {
+    width: 100%;
+    height: 16%;
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.p-1 {
+    width: 20%;
+    height: 70%;
+    /* background-color: pink; */
+    background-image: url(./Screenshot\ 2024-08-10\ 151859.png);
+}
+.p-2 {
+    width: 20%;
+    height: 68%;
+    /* background-color: purple; */
+    background-image: url(./Screenshot\ 2024-08-10\ 151904.png);
+
+}
+.p-3 {
+    width: 20%;
+    height: 80%;
+    /* background-color: rgb(255, 192, 248); */
+    background-image: url(./Screenshot\ 2024-08-10\ 151910.png);
+    background-size: contain;
+
+}
+.p-4 {
+    width: 20%;
+    height: 70%;
+    /* background-color: brown; */
+    background-image: url(./Screenshot\ 2024-08-10\ 151916.png);
+
+}
+
+
+.row-4 {
+    width: 100%;
+    height: 16%;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.call-1 {
+    width: 20%;
+    height: 70%;
+    /* background-color: pink; */
+    background-image: url(./Screenshot\ 2024-08-10\ 152130.png);
+}
+
+.call-2 {
+    width: 20%;
+    height: 68%;
+    /* background-color: purple; */
+    background-image: url(./Screenshot\ 2024-08-10\ 152136.png);
+
+}
+.call-3 {
+    width: 20%;
+    height: 70%;
+    /* background-color: rgb(255, 192, 248); */
+    background-image: url(./Screenshot\ 2024-08-10\ 152141.png);
+    background-size: contain;;
+
+}
+.call-4 {
+    width: 20%;
+    height: 70%;
+    /* background-color: brown; */
+    background-image: url(./Screenshot\ 2024-08-10\ 152146.png);
+
+}
+.row-5 {
+    width: 100%;
+    height: 16%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.store-1 {
+    width: 19%;
+    height: 70%;
+    /* background-color: pink; */
+    background-image: url(./Screenshot\ 2024-08-10\ 152407.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 20px;
+}
+.store-2 {
+    width: 20%;
+    height: 80%;
+    /* background-color: purple; */
+    background-image: url(./Screenshot\ 2024-08-10\ 152419.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.store-3 {
+    width: 20%;
+    height: 60%;
+    /* background-color: rgb(255, 192, 248); */
+
+}
+.store-4 {
+    width: 20%;
+    height: 60%;
+    /* background-color: brown; */
+
+}
+.row-6 {
+    width: 100%;
+    height: 16%;
+    /* background-color: purple; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+}
+.navi-1 {
+    width: 100%;
+    height: 60%;
+    /* background-color: pink; */
+    background-image: url(./Screenshot\ 2024-08-10\ 152804.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 15px;
+}
+
+

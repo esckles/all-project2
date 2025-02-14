@@ -1,0 +1,11 @@
+
+    <form action="
+    "> <fieldset style="width: 300px;height: 200px;margin-top: 50px;"><legend>form</legend>
+        <label for="COUNTRY">COUNTRY</label>
+        <br>
+        <input type="text" id="COUNTRY">
+        <br>
+        <select name="" id=""><option value="">Nigeria</option></select>
+    </fieldset>
+    
+    <datalist></datalist>

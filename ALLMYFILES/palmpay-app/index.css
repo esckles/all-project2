@@ -1,0 +1,460 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+main {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.controler-1 {
+    width: 30%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.Phone-Screen {
+    width: 94%;
+    height: 100%;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+header {
+    width: 100%;
+    height: 10%;
+    background-color: rgb(16, 16, 16);
+    display: flex;
+}
+.head-1 {
+    width: 100%;
+    height: 100%;
+    /* background-color: green; */
+    background-image: url(./Screenshot\ 2024-08-10\ 160940.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.head-2 {
+    width: 50%;
+    height: 70%;
+    /* background-color: aquamarine; */
+    background-image: url(./Screenshot\ 2024-08-10\ 161012.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 60px;
+}
+
+
+.box-1 {
+    width: 100%;
+    height: 15%;
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+
+.border-1 {
+    width: 95%;
+    height: 87%;
+    background-color:rgb(57, 57, 247);
+    border-radius: 17px;
+    display: flex;
+}
+
+.v-1 {
+    width: 50%;
+    height: 100%;
+    /* background-color: red; */
+}
+.iv-1 {
+    margin-top: 12px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+
+}
+.na-1 {
+    margin-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    color: white;
+    margin-left: 10px;
+}
+
+.v-2 {
+    width: 50%;
+    height: 100%;
+    /* background-color: blue; */
+    margin-left: 50px;
+    color: white    ;
+}
+.T-1 {
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+    margin-left: 25px;
+
+}
+.A-1 {
+    margin-left: 60px;
+    margin-top: 14px;
+    background-color: black;
+    color: white;
+    padding: 6px 6px;
+    border-radius: 16px;
+    border: none;
+}
+
+
+
+
+
+
+.box-2 {
+    width: 100%;
+    height: 18%;
+    /* background-color: purple; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-2 {
+    width: 95%;
+    height: 88%;
+    background-color: rgb(29, 31, 34);
+    border-radius: 20px;
+}
+
+.Mo-ney {
+    font-size: 13px;
+    /* background-color: aqua; */
+    height: 30%;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+.allof-em {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4px;
+}
+
+.T-bank {
+    width: 28%;
+    height: 90%;
+    /* background-color: aqua; */
+    background-image: url(./Screenshot\ 2024-08-10\ 170924.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.T-palmpay {
+    width: 20%;
+    height: 90%;
+    /* background-color: blue; */
+    margin-right: 25px;
+    background-image: url(./Screenshot\ 2024-08-10\ 165305.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.W-draw {
+    width: 17%;
+    height: 90%;
+    /* background-color: greenyellow; */
+    margin-right: 14px;
+    background-image: url(./Screenshot\ 2024-08-10\ 165321.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.text-holder {
+    display: flex;
+    font-size: small;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2px;
+}
+
+.box-3 {
+    width: 100%;
+    height: 12%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.border-3 {
+    width: 95%;
+    height: 71%;
+    background-color: rgb(24, 25, 27);
+    border-radius:10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.Cash-box {
+    width: 60%;
+    height: 100%;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+   
+}
+.C-N {
+    width: 70%;
+    height: 70%;
+    text-align: center;
+
+}
+.Di-m {
+    font-size: 13px;
+    margin-right: 14px;
+}
+
+.Time-1 {
+    width: 40%;
+    height: 100%;
+    /* background-color: yellow; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.box-4 {
+    width: 100%;
+    height: 36%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.border-4 {
+    width: 95%;
+    height: 98%;
+    background-color:rgb(29, 31, 34);
+    border-radius: 15px;
+}
+
+.S-M {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 11px;
+}
+.Service-1 {
+    font-weight: bold;
+    color: white;
+}
+.use-Ful1 {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;   
+}
+.A-Time {
+    width: 15%;
+    height: 59%;
+    /* background-color: red; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180825.png);
+    background-repeat: no-repeat;
+}
+.D-Ata {
+    width: 15%;
+    height: 68%;
+    /* background-color: blue; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180833.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.B-tting {
+    width: 15%;
+    height: 70%;
+    /* background-color: green; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180840.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.E-electricity {
+    width: 15%;
+    height: 70%;
+    /* background-color: yellow; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180846.png);
+    background-repeat: no-repeat;
+    
+}
+.use-Ful2 {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;  
+    /* background-color: aqua;  */
+}
+.T-V{
+    width: 17%;
+    height: 70%;
+    /* background-color: red; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180853.png);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+}
+.W-N {
+  
+    /* background-color: blue; */
+    width: 17%;
+    height: 70%;
+    background-image: url(./Screenshot\ 2024-08-10\ 180900.png);
+    background-repeat: no-repeat;
+}
+.R-E {
+  
+    /* background-color: green; */
+    width: 17%;
+    height: 70%;
+    background-image: url(./Screenshot\ 2024-08-10\ 180908.png);
+    background-repeat: no-repeat;
+}
+.C-B {
+   
+    /* background-color: yellow; */
+    width: 17%;
+    height: 70%;
+    background-image: url(./Screenshot\ 2024-08-10\ 180914.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.use-Ful3 {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;  
+    /* background-color: purple;  */
+    
+}
+.T-C {
+    width: 15%;
+    height: 70%;
+    /* background-color: pink; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180920.png);
+    background-repeat: no-repeat;
+
+}
+.G-D {
+    width: 15%;
+    height: 70%;
+    /* background-color: blue; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180925.png);
+    background-repeat: no-repeat;
+}
+.I-E {
+    width: 15%;
+    height: 70%;
+    /* background-color: green; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180932.png);
+    background-repeat: no-repeat;
+}
+.I-N {
+    width: 15%;
+    height: 70%;
+    /* background-color: yellow; */
+    background-image: url(./Screenshot\ 2024-08-10\ 180938.png);
+    background-repeat: no-repeat;
+}
+
+.ft-1 {
+    width:100%;
+    height: 9%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.border-5 {
+    width: 29%;
+    height:10%;
+    background-color: rgb(29, 31, 34);
+    position: absolute;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.H-ome {
+    width: 13%;
+    height: 60%;
+    /* background-color:red ; */
+    background-image: url(./Screenshot\ 2024-08-10\ 192539.png);
+    background-repeat: no-repeat;
+}
+.L-oan {
+    width: 13%;
+    height: 60%;
+    /* background-color: blue; */
+    background-image: url(./Screenshot\ 2024-08-10\ 192559.png);
+    background-repeat: no-repeat;
+}
+.F-inance {
+    width: 13%;
+    height: 60%;
+    /* background-color: rebeccapurple; */
+    background-image: url(./Screenshot\ 2024-08-10\ 192606.png);
+    background-repeat: no-repeat;
+}
+.R-ward {
+    width: 13%;
+    height: 60%;
+    /* background-color: green; */
+    background-image: url(./Screenshot\ 2024-08-10\ 192614.png);
+    background-repeat: no-repeat;
+}
+.M-e {
+    width: 13%;
+    height: 60%;
+    /* background-color: green; */
+    background-image: url(./Screenshot\ 2024-08-10\ 192624.png);
+    background-repeat: no-repeat;
+}

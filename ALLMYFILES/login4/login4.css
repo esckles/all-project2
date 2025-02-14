@@ -1,0 +1,40 @@
+*{
+    margin: 20px;
+    padding: 12px;
+    box-sizing: border-box;
+    background-color: black;
+    text-align: center;
+}
+.Login{
+    text-align: center;
+    color: aqua;
+    text-decoration: underline;
+    font-size: small;
+}
+.Sign{
+    text-align: center;
+    color: darkgreen;
+    font-size: small;
+}
+
+.Starlink{
+    text-align: end;
+    color: blueviolet;
+    font-size: medium;
+    
+}
+
+button{
+    background-color: aliceblue;
+    color: pink;
+    padding: 5px 20px;
+    border: none;
+    font-size: small;
+    box-shadow: 20px blue;
+    transition: 0.5s ease-in-out;
+    border-radius: 40px;
+}
+
+button:hover{
+    background-color: orchid;
+}
