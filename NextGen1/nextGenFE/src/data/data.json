@@ -1,0 +1,258 @@
+{
+  "stage1": {
+    "id": "stage1",
+    "data": [
+      {
+        "id": 1,
+        "title": "What do you want",
+        "answer": "rice",
+        "question": "stage1",
+        "options": [
+          { "id": 1, "questionID": 1, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 1, "option": "rice", "correct": true },
+          {
+            "id": 3,
+            "questionID": 1,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "What would you like to eat",
+        "answer": "beans",
+        "question": "stage1",
+        "options": [
+          { "id": 1, "questionID": 2, "option": "beans", "correct": true },
+          { "id": 2, "questionID": 2, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 2,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "What is your favorite meal",
+        "answer": "plantain",
+        "question": "stage1",
+        "options": [
+          { "id": 1, "questionID": 3, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 3, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 3,
+            "option": "plantain",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "What is Your coding language",
+        "answer": "JS",
+        "question": "stage1",
+        "options": [
+          { "id": 1, "questionID": 4, "option": "JS", "correct": true },
+          { "id": 2, "questionID": 4, "option": "TS", "correct": false },
+          { "id": 3, "questionID": 4, "option": "Java", "correct": false }
+        ]
+      }
+    ]
+  },
+  "stage2": {
+    "id": "stage2",
+    "data": [
+      {
+        "id": 1,
+        "title": "What do you want",
+        "answer": "rice",
+        "question": "stage2",
+        "options": [
+          { "id": 1, "questionID": 1, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 1, "option": "rice", "correct": true },
+          {
+            "id": 3,
+            "questionID": 1,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "What would you like to eat",
+        "answer": "beans",
+        "question": "stage2",
+        "options": [
+          { "id": 1, "questionID": 2, "option": "beans", "correct": true },
+          { "id": 2, "questionID": 2, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 2,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "What is your favorite meal",
+        "answer": "plantain",
+        "question": "stage2",
+        "options": [
+          { "id": 1, "questionID": 3, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 3, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 3,
+            "option": "plantain",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "What is Your coding language",
+        "answer": "JS",
+        "question": "stage2",
+        "options": [
+          { "id": 1, "questionID": 4, "option": "JS", "correct": true },
+          { "id": 2, "questionID": 4, "option": "TS", "correct": false },
+          { "id": 3, "questionID": 4, "option": "Java", "correct": false }
+        ]
+      }
+    ]
+  },
+  "stage3": {
+    "id": "stage3",
+    "data": [
+      {
+        "id": 1,
+        "title": "What do you want",
+        "answer": "rice",
+        "question": "stage3",
+        "options": [
+          { "id": 1, "questionID": 1, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 1, "option": "rice", "correct": true },
+          {
+            "id": 3,
+            "questionID": 1,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "What would you like to eat",
+        "answer": "beans",
+        "question": "stage3",
+        "options": [
+          { "id": 1, "questionID": 2, "option": "beans", "correct": true },
+          { "id": 2, "questionID": 2, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 2,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "What is your favorite meal",
+        "answer": "plantain",
+        "question": "stage3",
+        "options": [
+          { "id": 1, "questionID": 3, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 3, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 3,
+            "option": "plantain",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "What is Your coding language",
+        "answer": "JS",
+        "question": "stage3",
+        "options": [
+          { "id": 1, "questionID": 4, "option": "JS", "correct": true },
+          { "id": 2, "questionID": 4, "option": "TS", "correct": false },
+          { "id": 3, "questionID": 4, "option": "Java", "correct": false }
+        ]
+      }
+    ]
+  },
+  "stage4": {
+    "id": "stage4",
+    "data": [
+      {
+        "id": 1,
+        "title": "What do you want",
+        "answer": "rice",
+        "question": "stage4",
+        "options": [
+          { "id": 1, "questionID": 1, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 1, "option": "rice", "correct": true },
+          {
+            "id": 3,
+            "questionID": 1,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "What would you like to eat",
+        "answer": "beans",
+        "question": "stage4",
+        "options": [
+          { "id": 1, "questionID": 2, "option": "beans", "correct": true },
+          { "id": 2, "questionID": 2, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 2,
+            "option": "plantain",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "What is your favorite meal",
+        "answer": "plantain",
+        "question": "stage4",
+        "options": [
+          { "id": 1, "questionID": 3, "option": "beans", "correct": false },
+          { "id": 2, "questionID": 3, "option": "rice", "correct": false },
+          {
+            "id": 3,
+            "questionID": 3,
+            "option": "plantain",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "What is Your coding language",
+        "answer": "JS",
+        "question": "stage4",
+        "options": [
+          { "id": 1, "questionID": 4, "option": "JS", "correct": true },
+          { "id": 2, "questionID": 4, "option": "TS", "correct": false },
+          { "id": 3, "questionID": 4, "option": "Java", "correct": false }
+        ]
+      }
+    ]
+  }
+}

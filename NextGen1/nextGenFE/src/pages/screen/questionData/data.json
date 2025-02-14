@@ -1,0 +1,2383 @@
+{
+  "stage1": {
+    "id": "stage1",
+    "data": [
+      {
+        "id": 1,
+        "title": "When a given mass of gas is inversely propotional to its pressure, provided that the temperature remains constant, who's law is that?",
+        "answer": "Boyle's Law",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 1,
+            "option": "Avogado's Law",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 1,
+            "option": "Boyle's Law",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 1,
+            "option": "Charles' Law",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 1,
+            "option": "Newton Law",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "What is the color of the sun",
+        "answer": "White",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 2,
+            "option": "White",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 2,
+            "option": "Yellow",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 2,
+            "option": "Red",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 2,
+            "option": "Orange",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "___________ is a collection of related Web Pages, images videos and other digital asset",
+        "answer": "Website",
+        "options": [
+          { "id": "A", "questionID": 3, "option": "E-mail", "correct": false },
+          {
+            "id": "B",
+            "questionID": 3,
+            "option": "Internet",
+            "correct": false
+          },
+          { "id": "C", "questionID": 3, "option": "Website", "correct": true },
+          { "id": "D", "questionID": 3, "option": "Computer", "correct": false }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Which of the following is not a morphological variation in human beings?",
+        "answer": "Blood groups",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 4,
+            "option": "Blood groups",
+            "correct": true
+          },
+          { "id": "B", "questionID": 4, "option": "Size", "correct": false },
+          { "id": "C", "questionID": 4, "option": "Color", "correct": false },
+          { "id": "D", "questionID": 4, "option": "Hair", "correct": false }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "The adult human of average age and size has approximately how many quarts of blood?",
+        "answer": "6",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 5,
+            "option": "2",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 5,
+            "option": "4",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 5,
+            "option": "6",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 5,
+            "option": "8",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "The radioactive substance life is four months and the 1/4 of the substance decay in?",
+        "answer": "8 months",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 6,
+            "option": "3 months",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 6,
+            "option": "12 months",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 6,
+            "option": "4 months",
+            "correct": false
+          },
+          { "id": "D", "questionID": 6, "option": "8 months", "correct": true }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "What is the average of the first 50 natural numbers?",
+        "answer": "25.5",
+        "options": [
+          { "id": "A", "questionID": 7, "option": "50", "correct": false },
+          { "id": "B", "questionID": 7, "option": "2", "correct": false },
+          { "id": "C", "questionID": 7, "option": "25.5", "correct": true },
+          { "id": "D", "questionID": 7, "option": "20", "correct": false }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "UPS stands for ____________",
+        "answer": "Uninterruptible power supply",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 8,
+            "option": "Unlimited power supply",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 8,
+            "option": "Uninterruptible power supply",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 8,
+            "option": "United power supply",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 8,
+            "option": "Unimaginary power supply",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "A boy cycles countinously through a distance of 1.0km in 5minutes. Calculate his average speed.",
+        "answer": "3.33m/s",
+        "options": [
+          { "id": "A", "questionID": 9, "option": "1.11m/s", "correct": false },
+          { "id": "B", "questionID": 9, "option": "2.22m/s", "correct": false },
+          { "id": "C", "questionID": 9, "option": "3.33m/s", "correct": true },
+          { "id": "D", "questionID": 9, "option": "4.44m/s", "correct": false }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "A bus traveling at 15m/s accelerates uniformly at 5ms^-2. What is the distance covered in 10s?",
+        "answer": "350m",
+        "options": [
+          { "id": "A", "questionID": 10, "option": "150m", "correct": false },
+          { "id": "B", "questionID": 10, "option": "250m", "correct": false },
+          { "id": "C", "questionID": 10, "option": "350m", "correct": true },
+          { "id": "D", "questionID": 10, "option": "450m", "correct": false }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "What physical measurement is technically defined  as force divided by the area over which that force is being applied?",
+        "answer": "Pressure",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 11,
+            "option": "Pressure",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 11,
+            "option": "Volume",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 11,
+            "option": "Temperature",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 11,
+            "option": "Moment",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "What is the general molecular formula for Alkanes",
+        "answer": "CnH2n+2",
+        "options": [
+          { "id": "A", "questionID": 12, "option": "CnH2n+2", "correct": true },
+          {
+            "id": "B",
+            "questionID": 12,
+            "option": "CnH1n+2",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 12,
+            "option": "CnH2n-2",
+            "correct": false
+          },
+          { "id": "D", "questionID": 12, "option": "CnH1n-2", "correct": false }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Find the value of x in 3x - [3(1 + x) - 2x] = 3",
+        "answer": "3",
+        "options": [
+          { "id": "A", "questionID": 13, "option": "4", "correct": false },
+          { "id": "B", "questionID": 13, "option": "3", "correct": true },
+          { "id": "C", "questionID": 13, "option": "2", "correct": false },
+          { "id": "D", "questionID": 13, "option": "1", "correct": false }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "The selling price of a second-hand car is originally ₦273,000. The  dealer reduces the price in the ratio 11:13. What is the new selling price of the car?",
+        "answer": "₦231,000",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 14,
+            "option": "₦271,000",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 14,
+            "option": "₦239,000",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 14,
+            "option": "₦231,000",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 14,
+            "option": "₦150,000",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Which of the following is not part of the homologous series",
+        "answer": "Metane",
+        "options": [
+          { "id": "A", "questionID": 15, "option": "Alkyl", "correct": false },
+          { "id": "B", "questionID": 15, "option": "Metane", "correct": true },
+          {
+            "id": "C",
+            "questionID": 15,
+            "option": "Alkanols",
+            "correct": false
+          },
+          { "id": "D", "questionID": 15, "option": "Esters", "correct": false }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "When 3mol of Zinc reacts with 400mol of 0.5m of Hcl, the volume of hydrogen librated is? [Zn = 65, H = 1, cl = 35.5, S.T.P = 22.4dm^3]",
+        "answer": "2.24l",
+        "options": [
+          { "id": "A", "questionID": 16, "option": "2.42l", "correct": false },
+          { "id": "B", "questionID": 16, "option": "2.12l", "correct": false },
+          { "id": "C", "questionID": 16, "option": "2.54l", "correct": false },
+          { "id": "D", "questionID": 16, "option": "2.24l", "correct": true }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Factorise m^2n^2 + 4mn -21",
+        "answer": "(mn - 3)(mn + 7)",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 17,
+            "option": "(mn - 3)(mn + 7)",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 17,
+            "option": "(mn - 4)(mn + 21)",
+            "correct": false
+          },
+          {
+            "id": "c",
+            "questionID": 17,
+            "option": "(mn + 3)(mn - 7)",
+            "correct": false
+          },
+          {
+            "id": "d",
+            "questionID": 17,
+            "option": "(mn + 4)(mn - 21)",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Which of the following is an allotrope of carbon",
+        "answer": "Diamond",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 18,
+            "option": "Charcoal",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 18,
+            "option": "Carbon black",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 18,
+            "option": "Diamond",
+            "correct": false
+          },
+          { "id": "D", "questionID": 18, "option": "Diamond", "correct": true }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Which of the following is not an equation for linear motion",
+        "answer": "v = ut + s",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 19,
+            "option": "v = ut + s",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 19,
+            "option": "v = u + at",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 19,
+            "option": "s = ut + 1/2at^2",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 19,
+            "option": "s = ut + 1/2at^2",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "_________ is the fundamental unit that connects two computer networks of different network architecture",
+        "answer": "Server",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 20,
+            "option": "Server",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 20,
+            "option": "Host",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 20,
+            "option": "Client",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 20,
+            "option": "Gateway",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  "Stage2": {
+    "id": "stage2",
+    "data": [
+      {
+        "id": 1,
+        "title": "In the periodic table, elements in the same period show",
+        "answer": "similarities in electronic structures",
+        "options": [
+          {
+            "id": "A",
+            "option": "Progressive decrease in electronegativity.",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "option": "similarities in physical properties",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "option": "similarities in electronic structures",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "option": "Progressive increase in electronegativity",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Sodium Chloride has a net charge of",
+        "answer": "0",
+        "options": [
+          { "id": "A", "option": "1", "correct": false },
+          { "id": "B", "option": "-2", "correct": false },
+          { "id": "C", "option": "0", "correct": true },
+          { "id": "D", "option": "-1", "correct": false }
+        ]
+      },
+
+      {
+        "id": 3,
+        "title": "If 2257 is the result of subtracting 4577 from 7056 in base n, find n. ",
+        "answer": "8",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 3,
+            "questionStage": "Stage2",
+            "option": "10",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 3,
+            "questionStage": "Stage2",
+            "option": "9",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 3,
+            "questionStage": "Stage2",
+            "option": "8",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 3,
+            "questionStage": "Stage2",
+            "option": "11",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 4,
+        "title": "What is the process of a router ",
+        "answer": "To connect devices to the internet",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 4,
+            "questionStage": "Stage2",
+            "option": "To connect devices to a local network",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 4,
+            "questionStage": "Stage2",
+            "option": "To connect devices to the internet",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 4,
+            "questionStage": "Stage2",
+            "option": "to translate IP addresses",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 4,
+            "questionStage": "Stage2",
+            "option": "to filter network traffic",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 5,
+        "title": "A Body accelerates uniformly from rest at 2m/s. calculate it's velocity after travelling 9m.",
+        "answer": "6m/s",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 5,
+            "questionStages": "Stage2",
+            "option": "25s",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 5,
+            "questionStages": "Stage2",
+            "option": "4m/s",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 5,
+            "questionStages": "Stage2",
+            "option": "6m/s",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 5,
+            "questionStages": "Stage2",
+            "option": "16m/s",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 6,
+        "title": "A motor vehicle is brought to rest from a speed of 15m/s1 in 20 seconds. Calculate the retardation .",
+        "answer": "0.75m/s2",
+        "options": [
+          { "id": "A", "questionID": 6, "option": "0.75m/s2", "correct": true },
+          {
+            "id": "B",
+            "questionID": 6,
+            "option": "1.33m/s2",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 6,
+            "option": "5.00m/s2",
+            "correct": false
+          },
+          { "id": "D", "questionID": 6, "option": "500m/s2", "correct": false }
+        ]
+      },
+
+      {
+        "id": 7,
+        "title": "Which part of the gill of fish is involved in gaseous exchange",
+        "answer": "Gill filaments",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 7,
+            "option": "Gill filaments",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 7,
+            "option": "Gill slits",
+            "correct": false
+          },
+          { "id": "C", "questionID": 7, "option": "Govers", "correct": false },
+          {
+            "id": "D",
+            "questionID": 7,
+            "option": "None of the Above",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 8,
+        "title": "which of the allotrope of cabon is a constituent of a lead pencil  ",
+        "answer": "Graphite",
+        "options": [
+          { "id": "A", "questionID": 8, "option": "Diamond", "correct": false },
+          { "id": "B", "questionID": 8, "option": "Graphite", "correct": true },
+          { "id": "C", "questionID": 8, "option": "Soot", "correct": false },
+          {
+            "id": "D",
+            "questionID": 8,
+            "option": "All of the Above",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 9,
+        "title": "What is the primary function of a database management system (DBMS)?",
+        "answer": " All of the above",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 9,
+            "option": "Data storage",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 9,
+            "option": "Data retrieval",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 9,
+            "option": "All of the Above",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 9,
+            "option": "Data manipulation",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 10,
+        "title": "which of the following constitutes the cellular components of the mammalian blood? i. Haemoglobin ii. Erythrocytes iii. Leucocytes iv. Platelets ",
+        "answer": "ii,iii and iv only",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 10,
+            "option": "i,iii and iv only",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 10,
+            "option": "i,ii and iii only",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 10,
+            "option": "ii,iii and iv only",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 10,
+            "option": "ii and iii ",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 11,
+        "title": "30dm3 of oxygen at 10atm pressure is placed in a 20dm3 container. Calculate the new pressure if the template is kept constant",
+        "answer": "15atm",
+        "options": [
+          { "id": "A", "questionID": 11, "option": "-15atm", "correct": false },
+          { "id": "B", "questionID": 11, "option": "15atm", "correct": true },
+          { "id": "C", "questionID": 11, "option": "10atm", "correct": false },
+          { "id": "D", "questionID": 11, "option": "25atm", "correct": false }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "What is the purpose of HTTP",
+        "answer": "To access web pages",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 12,
+            "option": "To transfer files",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 12,
+            "option": "To send emails",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 12,
+            "option": "To access web pages",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 12,
+            "option": "To establish network connections",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 13,
+        "title": "A plane inclined at an angle of 30* to the horizontal has an efficiency of 50%. The force parallel to the plane required to push a load of 120N uniformly up the plane is?",
+        "answer": "120N",
+        "options": [
+          { "id": "A", "questionID": 13, "option": "50N", "correct": false },
+          { "id": "B", "questionID": 13, "option": "100N", "correct": false },
+          { "id": "C", "questionID": 13, "option": "25N", "correct": false },
+          { "id": "D", "questionID": 13, "option": "120N", "correct": true }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "The electronic configuration of Na+ is",
+        "answer": "1s2 2s2 2p6",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 14,
+            "option": "1s2 2s2 2p6",
+            "correct": true
+          },
+          { "id": "B", "questionID": 14, "option": "none", "correct": false },
+          {
+            "id": "C",
+            "questionID": 14,
+            "option": "1s2 2s2 2p6 3s1",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 14,
+            "option": "1s2 2s2 2p6 3s2",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Find the fifth term in the binomial expansion of (q+x)^7",
+        "answer": "35q^3 x^4",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 15,
+            "option": "q^3 x^4",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 15,
+            "option": "35q",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 15,
+            "option": "35q^3 x^4",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 15,
+            "option": "32x^3",
+            "correct": false
+          }
+        ]
+      },
+
+      {
+        "id": 16,
+        "title": "Which programming language is known for it's platform independence?",
+        "answer": "Java",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 16,
+            "option": "C++",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 16,
+            "option": "Java",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 16,
+            "option": "Python",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 16,
+            "option": "Javascript",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Monera Kingdom is divided mainly into two phyla namely",
+        "answer": "Schizophyta and Cyanophyta",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 17,
+            "option": "Thallophyta and Bryophyta",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 17,
+            "option": "Pteridophyta and Spermatophyta",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 17,
+            "option": "Schizophyta and Cyanophyta",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 17,
+            "option": "Rhodophyta and Chlophyta",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "What will be the value of k so that the quadratic equation kx2 - 4x + 1 = 0 has two equal roots?",
+        "answer": "4",
+        "options": [
+          { "id": "A", "questionID": 18, "option": "2", "correct": false },
+          { "id": "B", "questionID": 18, "option": "3", "correct": false },
+          { "id": "C", "questionID": 18, "option": "-2", "correct": false },
+          { "id": "D", "questionID": 18, "option": "4", "correct": true }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Express each of the ratios in Nos 1-10 as he ratio of an acute angle 1. tan300",
+        "answer": "-tan 60",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 19,
+            "option": "-sin 72",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 19,
+            "option": " tan 60",
+            "correct": false
+          },
+          { "id": "C", "questionID": 19, "option": "-tan 60", "correct": true },
+          { "id": "D", "questionID": 19, "option": "sin 72", "correct": false }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "A radioactive nuclide of mass 6.0g has a half of 8 days. Calculate the time during which 5.25g of the nucli",
+        "answer": "24 days",
+        "options": [
+          { "id": "A", "questionID": 20, "option": "24 days", "correct": true },
+          {
+            "id": "B",
+            "questionID": 20,
+            "option": "10 days",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 20,
+            "option": "30 days",
+            "correct": false
+          },
+          { "id": "D", "questionID": 20, "option": "20 days", "correct": false }
+        ]
+      }
+    ]
+  },
+  "stage3": {
+    "id": "stage3",
+    "data": [
+      {
+        "id": 1,
+        "title": "If S = {1,2,3,4,5,6,7,8,9,10}, find the probability that a number seleected at random from S is odd",
+        "answer": "1/2",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 1,
+            "questionStage": "stage3",
+            "option": "3/8",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 1,
+            "questionStage": "stage3",
+            "option": "1/4",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 1,
+            "questionStage": "stage3",
+            "option": "1/2",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 1,
+            "questionStage": "stage3",
+            "option": "5/8",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "The alkanol obtained from the production of soap is ?",
+        "answer": "Trihydric Alkanol",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 2,
+            "questionStage": "stage3",
+            "option": "Dihydric Alkanol",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 2,
+            "questionStage": "stage3",
+            "option": "Tertiary Alkanol",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 2,
+            "questionStage": "stage3",
+            "option": "Trihydric Alkanol",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 2,
+            "questionStage": "stage3",
+            "option": "Monohydric Alkanol",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "What is the email attachment size limit in Gmail?",
+        "answer": "10mb ",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 3,
+            "questionStage": "Stage3",
+
+            "option": "20mb",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 3,
+            "questionStage": "Stage3",
+            "option": "15mb",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 3,
+            "questionStage": "Stage3",
+            "option": "10mb",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 3,
+            "questionStage": "Stage3",
+            "option": "5mb",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Which of the following eye defects is caused by the inability of the eye to focus light on the retina?",
+        "answer": "Myopia",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 4,
+            "questionStage": "stage3",
+            "option": "Glaucoma",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 4,
+            "questionStage": "stage3",
+            "option": "Myopia",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 4,
+            "questionStage": "stage3",
+            "option": "Cataracts",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 4,
+            "questionStage": "stage3",
+            "option": "Astigmatism",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "A real image three times the size of an object is formed 24cm from a converging mirror. what is the focal length of the mirror.",
+        "answer": "6cm",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 5,
+            "questionStage": "stage3",
+            "option": "16cm",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 5,
+            "questionStage": "stage3",
+            "option": "6cm",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 5,
+            "questionStage": "stage3",
+            "option": "8cm",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 5,
+            "questionStage": "stage3",
+            "option": " 12cm",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "A body of mass 36kg falls through a viscous liquid which offers a drag force of 260N on the body. The upthrust on the body at terminal velocity is  ?",
+        "answer": "100N",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 6,
+            "questionStage": "stage3",
+            "option": "100N",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 6,
+            "questionStage": "stage3",
+            "option": "620N",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 6,
+            "questionStage": "stage3",
+            "option": "50N",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 6,
+            "questionStage": "stage3",
+            "option": "310N",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "2x2 + 11x2 + 17x + 6 by 2x + 1 is ?",
+        "answer": "x2 + 5x + 6",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 7,
+            "questionStage": "stage3",
+            "option": "2x2 + 5x - 6",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 7,
+            "questionStage": "stage3",
+            "option": "x2 + 5x + 6",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 7,
+            "questionStage": "stage3",
+            "option": "2x2 + 5x + 6",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 7,
+            "questionStage": "stage3",
+            "option": "x2 - 5x + 6",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Calculate the percentage composition of oxygen in calcium trioxocarbonate(IV) [Ca=40, C=12, O=16]",
+        "answer": "48",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 8,
+            "questionStage": "stage3",
+            "option": "16",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 8,
+            "questionStage": "stage3",
+            "option": "40",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 8,
+            "questionStage": "stage3",
+            "option": "12",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 8,
+            "questionStage": "stage3",
+            "option": "48",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "The part of the mammalian ear responsible for the maintenance of balance is the ?",
+        "answer": "Vestibular System",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 9,
+            "questionStage": "stage3",
+            "option": "Cochlea",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 9,
+            "questionStage": "stage3",
+            "option": "Pinna",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 9,
+            "questionStage": "stage3",
+            "option": "Perilymph",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 9,
+            "questionStage": "stage3",
+            "option": "Vestibular System",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis",
+        "answer": "12cm",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 10,
+            "questionStage": "stage3",
+            "option": "10.5cm",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 10,
+            "questionStage": "stage3",
+            "option": "5cm",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 10,
+            "questionStage": "stage3",
+            "option": "12cm",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 10,
+            "questionStage": "stage3",
+            "option": "10cm",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "How many bits does an IP address consist of ?",
+        "answer": "32",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 11,
+            "questionStage": "stage3",
+            "option": "16",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 11,
+            "questionStage": "stage3",
+            "option": "40",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 11,
+            "questionStage": "stage3",
+            "option": "12",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 11,
+            "questionStage": "stage3",
+            "option": "32",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "The filter in the cigarette reduces the nicotine content by   ",
+        "answer": "Adsorption",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 12,
+            "questionStage": "stage3",
+            "option": "Burning",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 12,
+            "questionStage": "stage3",
+            "option": "Adsorption",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 12,
+            "questionStage": "stage3",
+            "option": "Evaporation",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 12,
+            "questionStage": "stage3",
+            "option": "Absorption",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "A given mass of gas occupies 2dm3 at 300k. At what temperature will its volume be doubled, keeping the pressure constant?",
+        "answer": "600k",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 13,
+            "questionStage": "stage3",
+            "option": "400k",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 13,
+            "questionStage": "stage3",
+            "option": "480k",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 13,
+            "questionStage": "stage3",
+            "option": "550k",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 13,
+            "questionStage": "stage3",
+            "option": "600k",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units",
+        "answer": "-3",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 14,
+            "questionStage": "stage3",
+            "option": "3",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 14,
+            "questionStage": "stage3",
+            "option": "2",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 14,
+            "questionStage": "stage3",
+            "option": "-3",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 14,
+            "questionStage": "stage3",
+            "option": "-2",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "An object is placed 15cm in front of a plane mirror. If the mirror is moved further 5cm away from the object and the image is",
+        "answer": "40cm",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 15,
+            "questionStage": "stage3",
+            "option": "80cm",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 15,
+            "questionStage": "stage3",
+            "option": "40cm",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 15,
+            "questionStage": "stage3",
+            "option": "50cm",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 15,
+            "questionStage": "stage3",
+            "option": "70cm",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "What is the percentage by mass of oxygen in Al2(SO4)3. 2H2O? [Al = 27, S = 32, H = 1, O = 16]",
+        "answer": "59.25%",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 16,
+            "questionStage": "stage3",
+            "option": "14.29%",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 16,
+            "questionStage": "stage3",
+            "option": "25.39%",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 16,
+            "questionStage": "stage3",
+            "option": "50.79%",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 16,
+            "questionStage": "stage3",
+            "option": "59.25%",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "A liquid that will dissolve fat is",
+        "answer": "Calcium hydroxide",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 17,
+            "questionStage": "stage3",
+            "option": "Hydrochloric acid",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 17,
+            "questionStage": "stage3",
+            "option": "Calcium hydroxide",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 17,
+            "questionStage": "stage3",
+            "option": "Kerosene",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 17,
+            "questionStage": "stage3",
+            "option": "Water",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "A wheel and axle have radii 80cm and 10cm respectively. If the efficiency of the machine is 0.85, an applied force of 1200N to the wheel will raise a load of ?",
+        "answer": "8160N",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 18,
+            "questionStage": "stage3",
+            "option": "8.0N",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 18,
+            "questionStage": "stage3",
+            "option": "6.8N",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 18,
+            "questionStage": "stage3",
+            "option": "8160N",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 18,
+            "questionStage": "stage3",
+            "option": "9600N",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Now appearing prophetic, what device was announced in 2007 with the following slogan? This is only the beginning",
+        "answer": "Iphone",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 19,
+            "questionStage": "stage3",
+            "option": "Paypal",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 19,
+            "questionStage": "stage3",
+            "option": "HP",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 19,
+            "questionStage": "stage3",
+            "option": "Iphone",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 19,
+            "questionStage": "stage3",
+            "option": "Samsung",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Which of the following features is not a characteristic of arteries? Arteries",
+        "answer": "possess valves at internals throughout their length",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 20,
+            "questionStage": "stage3",
+            "option": "possess valves at internals throughout their length",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 20,
+            "questionStage": "stage3",
+            "option": "have thick muscular and elastic walls",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 20,
+            "questionStage": "stage3",
+            "option": "carry blood away from the heart",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 20,
+            "questionStage": "stage3",
+            "option": "transport oxygenated blood with the exception of the pulmonary artery",
+            "correct": false
+          }
+        ]
+      }
+    ]
+  },
+  "stage4": {
+    "id": "stage4",
+    "data": [
+      {
+        "id": 1,
+        "title": "In hexadecimal number system, B, D, E represent_________",
+        "answer": "11, 13, 14 respectively",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 1,
+            "questionStage": "stage4",
+            "option": "11, 12, 13 respectively",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 1,
+            "questionStage": "stage4",
+            "option": "11, 13, 14 respectively",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 1,
+            "questionStage": "stage4",
+            "option": "13, 14, 15 respectively",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 1,
+            "questionStage": "stage4",
+            "option": "14, 16, 17 respectively",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Adding 42 to a given positive number gives the same result as squaring the number. Find the number",
+        "answer": "7",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 2,
+            "questionStage": "stage4",
+            "option": "14",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 2,
+            "questionStage": "stage4",
+            "option": "13",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 2,
+            "questionStage": "stage4",
+            "option": "7",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 2,
+            "questionStage": "stage4",
+            "option": "6",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Radio waves belong to the class of wave whose velocity is about",
+        "answer": "3 ×108m/s",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 3,
+            "questionStage": "Stage4",
+
+            "option": "34m/s",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 3,
+            "questionStage": "Stage4",
+            "option": "3 ×106m/s",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 3,
+            "questionStage": "Stage4",
+            "option": "3 ×108m/s",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 3,
+            "questionStage": "Stag1",
+            "option": "3 × 10-8m/s",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Which of the following contains co-ordinate covalent bond?",
+        "answer": "NH4",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 4,
+            "questionStage": "stage4",
+            "option": "HCI",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 4,
+            "questionStage": "stage4",
+            "option": "CH 4",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 4,
+            "questionStage": "stage4",
+            "option": "NH4",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 4,
+            "questionStage": "stage4",
+            "option": "Na+CI",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "What popular operating system, launched in 1991",
+        "answer": "Linux",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 5,
+            "questionStage": "stage4",
+            "option": "Mac OS",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 5,
+            "questionStage": "stage4",
+            "option": "Unix",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 5,
+            "questionStage": "stage4",
+            "option": "Linux",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 5,
+            "questionStage": "stage4",
+            "option": "Microsoft windows",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "The structural similarities in Paramecium and Euglena are in the",
+        "answer": "blunt anterior and pointed posterior",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 6,
+            "questionStage": "stage4",
+            "option": "shape of locomotory organs",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 6,
+            "questionStage": "stage4",
+            "option": "blunt anterior and pointed posterior",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 6,
+            "questionStage": "stage4",
+            "option": "presence of micro and mega nuclei in both",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 6,
+            "questionStage": "stage4",
+            "option": "presence of anterior and posterior contractile vacuoles",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "When blue and green colours of light are mixed, the resultant colour is",
+        "answer": "Cyan",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 7,
+            "questionStage": "stage4",
+            "option": "Cyan",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 7,
+            "questionStage": "stage4",
+            "option": "magenta",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 7,
+            "questionStage": "stage4",
+            "option": "black",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 7,
+            "questionStage": "stage4",
+            "option": "yellow",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "You probably see it every day, but have you been paying attention...how many different colors are used in the lettering of Google's logo?",
+        "answer": "4",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 8,
+            "questionStage": "stage4",
+            "option": "3",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 8,
+            "questionStage": "stage4",
+            "option": "4",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 8,
+            "questionStage": "stage4",
+            "option": "5",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 8,
+            "questionStage": "stage4",
+            "option": "6",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "The Cerebellum of the Brain controls",
+        "answer": "Muscular Activity",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 9,
+            "questionStage": "stage4",
+            "option": "Reflex Action",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 9,
+            "questionStage": "stage4",
+            "option": "Emotional Expressions",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 9,
+            "questionStage": "stage4",
+            "option": "the Endocrine System",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 9,
+            "questionStage": "stage4",
+            "option": "Muscular Activity",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "On a map, 1cm represent 5km. Find the area on the map that represents 100km2.",
+        "answer": "4cm2",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 10,
+            "questionStage": "stage4",
+            "option": "2cm2",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 10,
+            "questionStage": "stage4",
+            "option": "4cm2",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 10,
+            "questionStage": "stage4",
+            "option": "8cm2",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 10,
+            "questionStage": "stage4",
+            "option": "10cm2",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "When the pressure of a fixed mass of gas is doubled at constant temperature, the volume of the gas is",
+        "answer": "halved",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 11,
+            "questionStage": "stage4",
+            "option": "increased four times",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 11,
+            "questionStage": "stage4",
+            "option": "doubled",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 11,
+            "questionStage": "stage4",
+            "option": "unchangeable",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 11,
+            "questionStage": "stage4",
+            "option": "halved",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Neutralization involves a reaction between H3O+ and?",
+        "answer": "OH-",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 12,
+            "questionStage": "stage4",
+            "option": "CL-",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 12,
+            "questionStage": "stage4",
+            "option": "OH-",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "questionID": 12,
+            "questionStage": "stage4",
+            "option": "NO3-",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 12,
+            "questionStage": "stage4",
+            "option": "CO32-",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Compute 1100112 + 111112",
+        "answer": "10100102",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 13,
+            "questionStage": "stage4",
+            "option": "10010102",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 13,
+            "questionStage": "stage4",
+            "option": "10001102",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 13,
+            "questionStage": "stage4",
+            "option": "10100102",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 13,
+            "questionStage": "stage4",
+            "option": "10001002",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "A measure of the degree of disorder in a chemical system is known as the",
+        "answer": "entropy",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 14,
+            "questionStage": "stage4",
+            "option": "Enthalpy",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 14,
+            "questionStage": "stage4",
+            "option": "Free energy",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 14,
+            "questionStage": "stage4",
+            "option": "Activation energy",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 14,
+            "questionStage": "stage4",
+            "option": "Entropy",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and",
+        "answer": "A density bottle",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 15,
+            "questionStage": "stage4",
+            "option": "Eureka",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 15,
+            "questionStage": "stage4",
+            "option": "A pipette",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 15,
+            "questionStage": "stage4",
+            "option": "A burette",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 15,
+            "questionStage": "stage4",
+            "option": "A density bottle",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Animals are said to gregarious when",
+        "answer": "they are of the same species moving together in a group",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 16,
+            "questionStage": "stage4",
+            "option": "they survive adverse conditions of cold weather",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 16,
+            "questionStage": "stage4",
+            "option": "they transmit information from one individual to another",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 16,
+            "questionStage": "stage4",
+            "option": "they are of the same species moving together in a group",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "questionID": 16,
+            "questionStage": "stage4",
+            "option": "they give an alarm to alert others to show the normal protective behaviour of the group when danger threatens",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Which cable is used to connect a hard drive to a motherboard?",
+        "answer": "A SATA cable",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 17,
+            "questionStage": "stage4",
+            "option": "An IDE Cable",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 17,
+            "questionStage": "stage4",
+            "option": "A USB Cable",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 17,
+            "questionStage": "stage4",
+            "option": "A PS2 Cable",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 17,
+            "questionStage": "stage4",
+            "option": "A SATA cable",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?",
+        "answer": "1",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 18,
+            "questionStage": "stage4",
+            "option": "1",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "questionID": 18,
+            "questionStage": "stage4",
+            "option": "2",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 18,
+            "questionStage": "stage4",
+            "option": "3",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 18,
+            "questionStage": "stage4",
+            "option": "4",
+            "correct": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Calculate the inductance of a coil of resistance 30 connected to a 100V a.c source if the coil draws an r.m.s current of 2A ",
+        "answer": "0.04H",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 19,
+            "questionStage": "stage4",
+            "option": "0.60H",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 19,
+            "questionStage": "stage4",
+            "option": "2.50H",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 19,
+            "questionStage": "stage4",
+            "option": "1.25H",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 19,
+            "questionStage": "stage4",
+            "option": "0.04H",
+            "correct": true
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "The ThinkCenter desktop is a model offered by what Hong Kong hardware company?",
+        "answer": "lenovo",
+        "options": [
+          {
+            "id": "A",
+            "questionID": 20,
+            "questionStage": "stage4",
+            "option": "Acer",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "questionID": 20,
+            "questionStage": "stage4",
+            "option": "HP",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "questionID": 20,
+            "questionStage": "stage4",
+            "option": "Huawei",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "questionID": 20,
+            "questionStage": "stage4",
+            "option": "lenovo",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
+}
