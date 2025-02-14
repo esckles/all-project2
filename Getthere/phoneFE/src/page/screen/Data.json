@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "img": "public/assets/img1.png",
+    "PhoneName": "INFINIX ",
+    "title": "INFINIX Note 40-X6853 Android Mobile Smart Phone With 256GB+8GB",
+    "Stars": "⭐⭐⭐⭐⭐",
+    "Price": "₦907,000.00",
+    "mainprice": " ₦691,000",
+    "from": "From",
+    "Selectoptions": "Select options"
+  },
+  {
+    "id": 2,
+    "img": "public/assets/Screenshot 2024-11-23 135742.png",
+    "PhoneName": "SAMSUNG ",
+    "title": "SAMSUNG Galaxy S24 Plus Android Mobile Smart Phone With 256GB+12GB",
+    "Stars": "⭐⭐⭐⭐",
+    "Price": "₦509,700",
+    "mainprice": " ₦491,000",
+    "from": "From",
+    "Selectoptions": "Select options"
+  },
+  {
+    "id": 3,
+    "img": "public/assets/Screenshot 2024-11-23 135749.png",
+    "PhoneName": "INFINIX ",
+    "title": "INFINIX Smart 8-X6525 Android Mobile Smart Phone With 64GB+2GB, 64GB+3GB, 64GB+4GB & 128GB+4GB",
+    "Stars": "⭐⭐⭐⭐⭐",
+    "Price": "₦376,000",
+    "mainprice": "₦276,000",
+    "from": "From",
+    "Selectoptions": "Select options"
+  },
+  {
+    "id": 4,
+    "img": "public/assets/Screenshot 2024-11-23 135756.png",
+    "PhoneName": "TECNO ",
+    "title": "[FREE GIFT - WATER BOTTLE OR 2,000 AIRTIME] TECNO Camon 30 5G-CL7 Android Smart Phone With 512GB+8GB",
+    "Stars": "⭐⭐⭐⭐",
+    "Price": "₦676,000",
+    "mainprice": " ₦476,000",
+    "from": "From",
+    "Selectoptions": "Select options"
+  }
+]
