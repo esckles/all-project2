@@ -1,0 +1,50 @@
+{
+  "task": {
+    "id": 11,
+    "data": [
+      {
+        "id": "uuiwwu",
+        "title": "task 1"
+      },
+      {
+        "id": "uuur",
+        "title": "task 2"
+      },
+      {
+        "id": "uuu",
+        "title": "task 3"
+      },
+      {
+        "id": "ussu",
+        "title": "task 4"
+      }
+    ]
+  },
+
+  "progress": {
+    "id": 22,
+    "data": [
+      {
+        "id": "uhhh",
+        "title": "task 3"
+      },
+      {
+        "id": "ughh",
+        "title": "task 3"
+      }
+    ]
+  },
+  "done": {
+    "id": 33,
+    "data": [
+      {
+        "id": "uuuv",
+        "title": "task 3"
+      },
+      {
+        "id": "uuud",
+        "title": "task 3"
+      }
+    ]
+  }
+}
