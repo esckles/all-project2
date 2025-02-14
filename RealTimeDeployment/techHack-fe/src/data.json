@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "img": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67639afe68344888547fb70b_forceps_main_preview.webp",
+    "name": "Digban mijoghene",
+    "price": "$49",
+    "avatar": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/64f565de5bf72428fb686330_themencodesquarelogo256.png",
+    "description": "forceps",
+    "button": "Book a session"
+  },
+  {
+    "id": "2",
+    "img": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6754b9748143bfe431176eff_a666d9ee-fb69-43ec-8d8b-bb7d56d4c27b-p-500.webp",
+    "name": "Kelvin Clark",
+    "price": "$70",
+    "avatar": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/64f565de5bf72428fb686330_themencodesquarelogo256.png",
+    "description": "Driveschool TNC",
+    "button": "Enroll now"
+  },
+  {
+    "id": "3",
+    "img": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/675870bcf04262c625cabea7_dcaf11b4-1174-497a-8d38-627221c89f18-p-500.webp",
+    "name": "Jerv Brown",
+    "price": "$90",
+    "avatar": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/64f565de5bf72428fb686330_themencodesquarelogo256.png",
+    "description": "CARFIX TNC",
+    "button": "Make an enqiry"
+  }
+]

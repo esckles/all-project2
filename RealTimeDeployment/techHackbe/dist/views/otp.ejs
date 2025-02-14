@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Verify Your Account</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; line-height: 1.6">
+    <h2>Welcome to Our Platform, <%- name %>!</h2>
+    <p>
+      Thank you for signing up. Please follow the rules of engagement on our
+      platform to ensure a safe and enjoyable experience.
+    </p>
+    <p>Your One-Time Password (OTP) is:</p>
+    <h3 style="color: #333; font-size: 24px"><%- otp %></h3>
+    <p>
+      This OTP is valid till <%- time %>. Please enter it in the verification
+      form to complete your account setup.
+    </p>
+    <p>click on the button below to continue the verification process</p>
+    <div style="width: 100%; display: flex; justify-content: center">
+      <a
+        style="
+          padding: 5px 12px;
+          border-radius: 5px;
+          background-color: blue;
+          color: white;
+        "
+        href="<%- url %>"
+        >verify</a
+      >
+    </div>
+    <p>We are excited to have you onboard!</p>
+    <p>
+      Best regards,<br />
+      The Platform Team
+    </p>
+  </body>
+</html>
