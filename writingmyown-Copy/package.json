@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/streamifier": "^0.1.2",
+    "cloudinary": "^2.5.1",
+    "streamifier": "^0.1.1"
+  }
+}
