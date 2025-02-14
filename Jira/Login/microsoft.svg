@@ -1,0 +1,32 @@
+  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="-0.5 -0.5 24 24"
+                    id="Microsoft-Icon--Streamline-Svg-Logos"
+                    height="24"
+                    width="24"
+                  >
+                    <desc>
+                      Microsoft Icon Streamline Icon: https://streamlinehq.com
+                    </desc>
+                    <path
+                      fill="#F1511B"
+                      d="M10.942801041666668 10.94268125H0.2397007291666667V0.23958333333333334H10.942801041666668v10.703097916666668Z"
+                      stroke-width="1"
+                    ></path>
+                    <path
+                      fill="#80CC28"
+                      d="M22.760177083333332 10.94268125H12.057198958333334V0.23958333333333334H22.760177083333332v10.703097916666668Z"
+                      stroke-width="1"
+                    ></path>
+                    <path
+                      fill="#00ADEF"
+                      d="M10.9425375 22.760416666666668H0.2397007291666667V12.05731875H10.9425375V22.760416666666668Z"
+                      stroke-width="1"
+                    ></path>
+                    <path
+                      fill="#FBBC09"
+                      d="M22.760177083333332 22.760416666666668H12.057198958333334V12.05731875H22.760177083333332V22.760416666666668Z"
+                      stroke-width="1"
+                    ></path>
+                  </svg>

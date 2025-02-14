@@ -1,0 +1,689 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Main-1 {
+  background-color: white;
+  width: 100%;
+  height: 750vh;
+}
+.Header {
+  width: 110%;
+  height: 65px;
+  background-color: white;
+  display: flex;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: fixed;
+  z-index: 1;
+  /* border-bottom: 1px solid black; */
+}
+
+.Our-logo {
+  width: 5%;
+  height: 100%;
+  /* background-color: red; */
+  background-color: #1868db;
+}
+
+.Options {
+  width: 95%;
+  height: 100%;
+  /* background-color: orange; */
+  display: flex;
+}
+.Options:hover {
+  /* border-bottom: 1px solid blue; */
+}
+
+.box-1 {
+  width: 12%;
+  height: 100%;
+  /* background-color: blue; */
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-1:hover {
+  text-decoration: underline;
+  transition: all 350ms;
+  color: #1868db;
+  cursor: pointer;
+}
+
+.box-2 {
+  width: 55%;
+  height: 100%;
+  /* background-color: rgb(115, 255, 0); */
+  font-size: 16px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 40px;
+}
+.nav:hover {
+  text-decoration: underline;
+  transition: all 350ms;
+  color: #1868db;
+  cursor: pointer;
+}
+.box-3 {
+  width: 40%;
+  height: 100%;
+  /* background-color: rgb(200, 0, 255); */
+  display: flex;
+}
+.Get-wrapper {
+  width: 27%;
+  height: 100%;
+  /* background-color: green; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.undline {
+  text-decoration: none;
+  color: white;
+}
+.Get-Free {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 30px;
+  background-color: #1868db;
+  width: 90%;
+  height: 58%;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+}
+.Get-Free:hover {
+  background-color: #123263;
+}
+
+.Search-wrapper {
+  width: 5%;
+  height: 100%;
+  /* background-color: orange; */
+}
+.Search {
+  width: 97%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  /* background-color: #1868db; */
+}
+
+.HZ-holder {
+  display: flex;
+  height: 100%;
+  width: 5%;
+  /* background-color: yellow; */
+  justify-content: center;
+  align-items: center;
+}
+.horizontal-line {
+  display: flex;
+  height: 30%;
+  width: 5%;
+  border-left: 1px solid gray;
+}
+
+.Sign-in-wrapper {
+  width: 13%;
+  height: 100%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  outline: none;
+  color: #1868db;
+}
+Header {
+  background-color: white;
+  width: 100%;
+  height: 70px;
+  position: fixed;
+}
+.Header-Wrapper {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  display: flex;
+}
+.Headerbox1 {
+  width: 20%;
+  height: 100%;
+  background-color: white;
+}
+.Headerbox2 {
+  width: 40%;
+  height: 100%;
+  background-color: bisque;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+.Headerbox3 {
+  width: 30%;
+  height: 100%;
+  background-color: blueviolet;
+}
+.Content {
+  width: 100%;
+  height: 85%;
+  background-color: #ffffff;
+  padding-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.First-Content {
+  width: 90%;
+  height: 12%;
+  background-color: white;
+  display: flex;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+.First-Contentdiv {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+}
+.First-C {
+  width: 55%;
+  height: 100%;
+  padding-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.First-Contentdiv h1 {
+  font-size: 45px;
+  font-weight: bolder;
+}
+.First-Contentdiv p {
+  font-size: 15px;
+}
+.First-C img {
+  width: 100%;
+  height: 90%;
+  border-radius: 20px;
+}
+.First-Contentdiv button {
+  width: 150px;
+  height: 50px;
+  background-color: #1868db;
+  border: none;
+  margin-top: 10px;
+  border-radius: 30px;
+}
+.First-Contentdiv button:hover {
+  background-color: #123263;
+}
+.First-Contentdiv button > a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  font-weight: bold;
+}
+.Second-Content {
+  width: 100%;
+  height: 22%;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Inside-SContent {
+  width: 90%;
+  height: 100%;
+  background-color: #f8f8f8;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+.Inside-SContent h1 {
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 30px;
+}
+.Plan {
+  width: 100%;
+  height: 55%;
+  background-color: aqua;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+.Left-Plan {
+  width: 40%;
+  height: 100%;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Right-Plan {
+  width: 60%;
+  height: 100%;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Right-Plan img {
+  width: 100%;
+  height: 80%;
+  border-radius: 20px;
+}
+.Quote {
+  width: 100%;
+  height: 25%;
+  background-color: black;
+  display: flex;
+}
+.Left-Quote {
+  width: 40%;
+  height: 100%;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.Left-Quote img {
+  width: 200px;
+  height: 150px;
+}
+.Right-Quote {
+  width: 60%;
+  height: 100%;
+  background-color: #f8f8f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 20px;
+}
+.Right-Quote q {
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+.Right-Quote p {
+  font-size: 13px;
+}
+.Third-Content {
+  width: 100%;
+  height: 20%;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Inside-Third {
+  width: 90%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.Inside-Third button {
+  margin-top: 30px;
+  width: 300px;
+  height: 50px;
+  background-color: #f8f8f8;
+  border: 2px solid black;
+  border-radius: 40px;
+  margin-bottom: 50px;
+}
+.Inside-Third button > a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  display: block;
+}
+.Inside-Third button:hover {
+  background-color: rgb(194, 192, 192);
+}
+
+.Manage-Pro {
+  width: 70%;
+  height: 13%;
+  background-color: #ffffff;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.Boxes {
+  width: 90%;
+  height: 25%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+}
+.Inside-Boxes {
+  width: 32%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Inside-Boxes p {
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+.Inside-Boxes img {
+  width: 30px;
+  height: 30px;
+  padding-bottom: 10px;
+}
+.Last-Box {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-top: 3px solid rgb(188, 184, 184);
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+.Fourth-Content {
+  width: 100%;
+  height: 20%;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Inside-Fourth {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+.Inside-Fourth > h1 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+.Inside-Fourth button {
+  margin-top: 20px;
+  width: 300px;
+  height: 50px;
+  background-color: #f8f8f8;
+  border: 2px solid black;
+  border-radius: 40px;
+  margin-bottom: 50px;
+}
+.Inside-Fourth button > a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  display: block;
+}
+.Inside-Fourth button:hover {
+  background-color: rgb(194, 192, 192);
+}
+.Icons-Div {
+  width: 50%;
+  height: 35%;
+}
+.Inside-Icons {
+  width: 100%;
+  height: 50%;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: space-around;
+}
+.Icons-holder {
+  width: 100px;
+  height: 100px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Fift-Content {
+  width: 100%;
+  height: 10%;
+  background-color: #1868db;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Inside-Fift {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1868db;
+}
+.Fift-Box {
+  width: 40%;
+  height: 100%;
+  background-color: #1868db;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Fift-Box h3 {
+  font-weight: bolder;
+  font-size: 20px;
+  color: white;
+}
+.Fift-Box img {
+  width: 400px;
+  height: 270px;
+}
+.Six-Content {
+  width: 100%;
+  height: 15%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Inside-Six {
+  width: 80%;
+  height: 100%;
+  display: flex;
+}
+.Six-Div {
+  width: 50%;
+  height: 90%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.Six-Div img {
+  width: 500px;
+  height: 270px;
+  margin-left: 20px;
+}
+.Six-Div1 {
+  width: 50%;
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-family: charlie text, -apple-system, blinkmacsystemfont, segoe ui, roboto,
+    oxygen, ubuntu, fira sans, droid sans, helvetica neue, sans-serif, noto sans,
+    charlie display;
+}
+
+.ft {
+  width: 100%;
+  height: 80vh;
+  background-color: white;
+}
+header {
+  width: 100%;
+  height: 12%;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.h-1 {
+  width: 20%;
+  height: 100;
+  background-color: ghostwhite;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+.h-2 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+.h-3 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+.h-4 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+
+  align-items: center;
+  display: flex;
+  color: black;
+}
+
+.mama-div {
+  width: 100%;
+  height: 80%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: space-around;
+}
+
+.f-1 {
+  width: 20%;
+  height: 100%;
+  /* background-color: red; */
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.f-2 {
+  width: 20%;
+  height: 100%;
+  /* background-color: blue; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.f-3 {
+  width: 20%;
+  height: 100%;
+  /* background-color: green; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.f-4 {
+  width: 20%;
+  height: 100%;
+  /* background-color: pink; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.ft1-wrapper {
+  width: 100%;
+  height: 98%;
+  background-color: white;
+}
+.ft2-wrapper {
+  width: 100%;
+  height: 95%;
+  background-color: white;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.ft3-wrapper {
+  width: 90%;
+  height: 90%;
+  background-color: #f8f8f8;
+  border-radius: 20px;
+}
+
+.scd-holder {
+  width: 100%;
+  height: 25%;
+  /* background-color: #1868db; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+}
+.inside-1 {
+  width: 80%;
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  align-items: center;
+}
+
+.bottom-1 {
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  align-items: center;
+}
+
+.Linker {
+  text-decoration: none;
+}

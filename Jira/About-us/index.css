@@ -1,0 +1,628 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main-whole {
+  width: 100%;
+  height: 350vh;
+  /* background-color: aqua; */
+}
+
+.Header {
+  width: 110%;
+  height: 65px;
+  background-color: white;
+  display: flex;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: fixed;
+  z-index: 1;
+  /* border-bottom: 1px solid black; */
+}
+.Linker {
+  text-decoration: none;
+}
+
+.Our-logo {
+  width: 5%;
+  height: 100%;
+  /* background-color: red; */
+  background-color: #1868db;
+}
+
+.Options {
+  width: 95%;
+  height: 100%;
+  /* background-color: orange; */
+  display: flex;
+}
+.Options:hover {
+  /* border-bottom: 1px solid blue; */
+}
+
+.box-1 {
+  width: 12%;
+  height: 100%;
+  /* background-color: blue; */
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-1:hover {
+  text-decoration: underline;
+  transition: all 350ms;
+  color: #1868db;
+  cursor: pointer;
+}
+.box-2 {
+  width: 55%;
+  height: 100%;
+  /* background-color: rgb(115, 255, 0); */
+  font-size: 16px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 40px;
+}
+.nav:hover {
+  text-decoration: underline;
+  transition: all 350ms;
+  color: #1868db;
+  cursor: pointer;
+}
+
+.box-3 {
+  width: 40%;
+  height: 100%;
+  /* background-color: rgb(200, 0, 255); */
+  display: flex;
+}
+.Get-wrapper {
+  width: 27%;
+  height: 100%;
+  /* background-color: green; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.undline {
+  text-decoration: none;
+  color: white;
+}
+.Get-Free {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 30px;
+  background-color: #1868db;
+  width: 90%;
+  height: 58%;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+}
+.Get-Free:hover {
+  background-color: #123263;
+}
+
+.Search-wrapper {
+  width: 5%;
+  height: 100%;
+  /* background-color: orange; */
+}
+.Search {
+  width: 97%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  /* background-color: #1868db; */
+}
+
+.HZ-holder {
+  display: flex;
+  height: 100%;
+  width: 5%;
+  /* background-color: yellow; */
+  justify-content: center;
+  align-items: center;
+}
+.horizontal-line {
+  display: flex;
+  height: 30%;
+  width: 5%;
+  border-left: 1px solid gray;
+}
+
+.Sign-in-wrapper {
+  width: 13%;
+  height: 100%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  outline: none;
+  color: #1868db;
+}
+.body1 {
+  width: 100%;
+  height: 100%;
+  /* background-color: #1868db; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px;
+}
+.body1-wrapper {
+  width: 95%;
+  height: 100%;
+  /* background-color: brown; */
+}
+
+.welcome {
+  width: 100%;
+  height: 18%;
+  /* background-color: purple; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-wrapper {
+  width: 95%;
+  height: 95%;
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+.welcome-verge {
+  width: 50%;
+  height: 20%;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: xx-large;
+  font-weight: 900;
+}
+.everything {
+  width: 90%;
+  height: 80%;
+  /* background-color: pink; */
+  display: flex;
+  justify-content: space-between;
+}
+.to-know {
+  width: 42%;
+  height: 100%;
+  /* background-color: wheat; */
+}
+.verge-image {
+  width: 55%;
+  height: 100%;
+  /* background-color: yellowgreen; */
+  background-image: url(./asset/jira\ aboutus\ img1.png);
+  background-position: center;
+  background-size: cover;
+}
+hr {
+  width: 100%;
+  background-color: grey;
+}
+.whats-verge {
+  width: 100%;
+  height: 10%;
+  /* background-color: green; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.whats-vergewrapper {
+  width: 85%;
+  height: 95%;
+  /* background-color: gray; */
+}
+.youtube-video {
+  width: 100%;
+  height: 5%;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.video-wrapper {
+  width: 85%;
+  height: 95%;
+  /* background-color: aliceblue; */
+  background-image: url(./asset/aboutus.avif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.verge-uses {
+  width: 100%;
+  height: 20%;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.vergeuses-wrapper {
+  width: 85%;
+  height: 95%;
+  /* background-color: bisque; */
+}
+.uses {
+  width: 100%;
+  height: 50%;
+  /* background-color: pink; */
+}
+.Teams {
+  width: 100%;
+  height: 50%;
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+}
+.team1 {
+  width: 22%;
+  height: 100%;
+  /* background-color: gray; */
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.specific-features {
+  width: 100%;
+  height: 12%;
+  /* background-color: orangered; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.specific-wrapper {
+  width: 85%;
+  height: 100%;
+  /* background-color: wheat; */
+}
+
+h5 {
+  font-size: xx-large;
+}
+.insights {
+  width: 100%;
+  height: 15;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+.boards {
+  width: 24%;
+  height: 70%;
+  /* background-color: red; */
+}
+.inner-boards {
+  width: 80%;
+  height: 70%;
+  /* background-color: pink; */
+
+  background-size: contain;
+}
+.inner-boards1 {
+  width: 100%;
+  height: 20%;
+  /* background-color: chartreuse; */
+}
+.timeline {
+  width: 20%;
+  height: 80%;
+  /* background-color: white; */
+}
+.inner-timeline {
+  /* background-image: yellow; */
+  height: 100%;
+  width: 80%;
+  margin-top: 35px;
+}
+.inner-timeline1 {
+  width: 100%;
+  height: 30%;
+
+  /* background-color: pink; */
+}
+
+.insight {
+  width: 20%;
+  height: 70%;
+  /* background-color: purple; */
+}
+.inner-insight {
+  width: 65%;
+  height: 100%;
+  /* background-color: yellow; */
+  margin-top: 35px;
+
+  background-position: center;
+  background-size: cover;
+}
+.inner-insight1 {
+  /* background-color: burlywood; */
+}
+.integration {
+  /* background-color: blueviolet; */
+  height: 40%;
+}
+.inner-integration {
+  /* background-color: red; */
+  margin-top: 30px;
+
+  width: 30%;
+  /* background-color: #22db18; */
+  height: 10%;
+}
+.inner-integration1 {
+  /* background-color: cadetblue; */
+}
+
+.owners {
+  width: 100%;
+  height: 10%;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.owner-wrapper {
+  width: 85%;
+  height: 120%;
+  /* background-color: aquamarine; */
+}
+.meet {
+  width: 100%;
+  height: 20%;
+  /* background-color: aliceblue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myimage {
+  width: 100%;
+  height: 75%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: space-between;
+}
+.image1 {
+  width: 20%;
+  height: 100%;
+  /* background-color: yellow; */
+}
+.image2 {
+  width: 20%;
+  height: 100%;
+  /* background-color: red; */
+}
+.image3 {
+  width: 20%;
+  height: 100%;
+  /* background-color: bisque; */
+}
+.image4 {
+  width: 20%;
+  height: 100%;
+  /* background-color: pink; */
+}
+.image5 {
+  width: 20%;
+  height: 100%;
+  /* background-color:grey; */
+}
+.the-image1 {
+  width: 90%;
+  height: 70%;
+  /* background-color: brown; */
+  background-image: url(./asset/ibrahim.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.the-name1 {
+  width: 90%;
+  height: 30%;
+  /* background-color: white; */
+}
+.the-image2 {
+  width: 90%;
+  height: 70%;
+  /* background-color: black; */
+  background-image: url(./asset/isreal.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.the-name2 {
+  width: 90%;
+  height: 30%;
+  /* background-color: white; */
+}
+.the-image3 {
+  width: 90%;
+  height: 70%;
+  /* background-color: blue; */
+  background-image: url(./asset/daniel.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.the-name3 {
+  width: 90%;
+  height: 30%;
+  /* background-color: white; */
+}
+.the-image4 {
+  width: 90%;
+  height: 70%;
+  /* background-color: black; */
+  background-image: url(./asset/samuelll.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.the-name4 {
+  width: 90%;
+  height: 30%;
+  /* background-color: white; */
+}
+.the-image5 {
+  width: 90%;
+  height: 70%;
+  /* background-color: blue; */
+  background-image: url(./asset/amaka.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.the-name5 {
+  width: 90%;
+  height: 30%;
+  /* background-color: white; */
+}
+
+main {
+  width: 100%;
+  height: 80vh;
+  background-color: white;
+  cursor: pointer;
+}
+header {
+  width: 100%;
+  height: 12%;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.h-1 {
+  width: 20%;
+  height: 100;
+  background-color: ghostwhite;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+.h-2 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+.h-3 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+.h-4 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+
+  align-items: center;
+  display: flex;
+  color: black;
+}
+
+.mama-div {
+  width: 100%;
+  height: 80%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: space-around;
+}
+
+.f-1 {
+  width: 20%;
+  height: 100%;
+  /* background-color: red; */
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.f-2 {
+  width: 20%;
+  height: 100%;
+  /* background-color: blue; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.f-3 {
+  width: 20%;
+  height: 100%;
+  /* background-color: green; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.f-4 {
+  width: 20%;
+  height: 100%;
+  /* background-color: pink; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.ft1-wrapper {
+  width: 100%;
+  height: 98%;
+  background-color: white;
+}
+.ft2-wrapper {
+  width: 100%;
+  height: 95%;
+  background-color: white;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.ft3-wrapper {
+  width: 90%;
+  height: 90%;
+  background-color: #f8f8f8;
+  border-radius: 20px;
+}
+
+.scd-holder {
+  width: 100%;
+  height: 25%;
+  /* background-color: #1868db; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+}
+.inside-1 {
+  width: 80%;
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  align-items: center;
+}
+
+.bottom-1 {
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  align-items: center;
+}
+
+.Linker {
+  text-decoration: none;
+}

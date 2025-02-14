@@ -1,0 +1,947 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Main {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.Header {
+  width: 110%;
+  height: 65px;
+  background-color: white;
+  display: flex;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  position: fixed;
+  z-index: 1;
+  /* border-bottom: 1px solid black; */
+}
+
+.Our-logo {
+  width: 5%;
+  height: 100%;
+  /* background-color: red; */
+  background-color: #1868db;
+}
+
+.Options {
+  width: 95%;
+  height: 100%;
+  /* background-color: orange; */
+  display: flex;
+}
+.Options:hover {
+  /* border-bottom: 1px solid blue; */
+}
+
+.box-1 {
+  width: 12%;
+  height: 100%;
+  /* background-color: blue; */
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-1:hover {
+  text-decoration: underline;
+  transition: all 350ms;
+  color: #1868db;
+  cursor: pointer;
+}
+.box-2 {
+  width: 55%;
+  height: 100%;
+  /* background-color: rgb(115, 255, 0); */
+  font-size: 16px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 40px;
+}
+.nav:hover {
+  text-decoration: underline;
+  transition: all 350ms;
+  color: #1868db;
+  cursor: pointer;
+}
+
+.box-3 {
+  width: 40%;
+  height: 100%;
+  /* background-color: rgb(200, 0, 255); */
+  display: flex;
+}
+.Get-wrapper {
+  width: 27%;
+  height: 100%;
+  /* background-color: green; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.undline {
+  text-decoration: none;
+  color: white;
+}
+.Get-Free {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 30px;
+  background-color: #1868db;
+  width: 90%;
+  height: 58%;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+}
+.Get-Free:hover {
+  background-color: #123263;
+}
+
+.Search-wrapper {
+  width: 5%;
+  height: 100%;
+  /* background-color: orange; */
+}
+.Search {
+  width: 97%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  /* background-color: #1868db; */
+}
+
+.HZ-holder {
+  display: flex;
+  height: 100%;
+  width: 5%;
+  /* background-color: yellow; */
+  justify-content: center;
+  align-items: center;
+}
+.horizontal-line {
+  display: flex;
+  height: 30%;
+  width: 5%;
+  border-left: 1px solid gray;
+}
+
+.Sign-in-wrapper {
+  width: 13%;
+  height: 100%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  outline: none;
+  color: #1868db;
+}
+.Body {
+  width: 100%;
+  height: 100%;
+  /* background-color: powderblue; */
+}
+.Landing-page-1 {
+  width: 100%;
+  height: 100%;
+  background-color: #e9f2ff;
+}
+
+.All-Great-Project-Main {
+  width: 100%;
+  height: 80%;
+  /* background-color: aqua; */
+}
+.All-Holder {
+  width: 100%;
+  height: 70%;
+  /* background-color: rgb(47, 0, 255); */
+  font-size: 70px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.Zizag-line {
+  width: 7%;
+  height: 6%;
+  position: fixed;
+
+  margin-right: 565px;
+  margin-top: 100px;
+}
+.green-line {
+  width: 7%;
+  height: 8%;
+  margin-left: 547px;
+  position: fixed;
+  margin-top: 244px;
+}
+.All-itself {
+  width: 50%;
+  height: 25%;
+}
+.try-verge-main {
+  width: 100%;
+  height: 20%;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: center;
+}
+.try-verge {
+  width: 140px;
+  height: 45px;
+  background-color: #1868db;
+  border-radius: 24px;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+}
+.try-verge:hover {
+  background-color: #123263;
+}
+.Verge-design {
+  width: 100%;
+  height: 70%;
+  background-color: #e9f2ff;
+  display: flex;
+  justify-content: center;
+}
+.black-box {
+  width: 190px;
+  height: 254px;
+  background-color: #e9f2ff;
+  position: relative;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  overflow: hidden;
+  border-radius: 20px;
+}
+.black-box h3 {
+  z-index: 1;
+  color: black;
+  font-size: 2em;
+}
+.black-box::before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  background-image: linear-gradient(
+    180deg,
+    rgb(0, 183, 255),
+    rgb(255, 48, 255)
+  );
+  height: 130%;
+  animation: animate 4s linear infinite;
+  transition: all 0.3s linear;
+}
+.black-box::after {
+  content: "";
+  position: absolute;
+  background-color: #e9f2ff;
+  inset: 5px;
+  border-radius: 15px;
+}
+@keyframes animate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h3:hover {
+  color: #1868db;
+}
+.Three-cards {
+  width: 100%;
+  height: 20%;
+  justify-content: center;
+  align-items: center;
+  background-color: #e9f2ff;
+  font-size: 50px;
+  display: flex;
+  gap: 40px;
+}
+.Three-cards-holder {
+  display: flex;
+  width: 90%;
+  gap: 40px;
+}
+.rotate-1 {
+  width: 100px;
+  height: 100px;
+  background-color: #1868db;
+  animation-duration: 7s;
+  animation-name: move;
+  animation-iteration-count: infinite;
+  position: relative;
+  border-radius: 10px;
+}
+.rotate-2 {
+  width: 100px;
+  height: 100px;
+  background-color: #db1818;
+  animation-duration: 7s;
+  animation-name: move;
+  animation-iteration-count: infinite;
+  position: relative;
+  border-radius: 10px;
+}
+.rotate-3 {
+  width: 100px;
+  height: 100px;
+  background-color: #18db1f;
+  animation-duration: 7s;
+  animation-name: move;
+  animation-iteration-count: infinite;
+  position: relative;
+  border-radius: 10px;
+}
+.rotate-4 {
+  width: 100px;
+  height: 100px;
+  background-color: #8adb18;
+  animation-duration: 7s;
+  animation-name: move;
+  animation-iteration-count: infinite;
+  position: relative;
+  border-radius: 10px;
+}
+.rotate-5 {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  animation-duration: 7s;
+  animation-name: move;
+  animation-iteration-count: infinite;
+  position: relative;
+  border-radius: 10px;
+}
+@keyframes move {
+  from {
+    top: 0px;
+    left: 100px;
+  }
+  to {
+    right: 0px;
+    left: 650px;
+  }
+}
+
+.fortune {
+  width: 100%;
+  height: 50%;
+}
+.fortune-img {
+  width: 100%;
+  height: 100%;
+}
+
+.Made {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Made-text {
+  font-size: 35px;
+  font-weight: bolder;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.big-video {
+  width: 100%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: gray; */
+}
+.ff {
+  background-color: #1868db;
+}
+
+.big-blue {
+  width: 100%;
+  height: 170%;
+  background-color: #1868db;
+}
+
+.nxtmove-holder {
+  width: 100%;
+  height: 6%;
+  /* background-color: orange; */
+  font-size: 30px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+}
+.Atlassian-holder {
+  width: 100%;
+  height: 6%;
+  /* background-color: orange; */
+  font-size: 17px;
+  display: flex;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+}
+.Exp-holder {
+  width: 100%;
+  height: 8%;
+  /* background-color: rgb(255, 0, 183); */
+  font-size: 17px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.xp {
+  width: 18%;
+  height: 37px;
+  background-color: #1868db;
+  border: solid white;
+  border-radius: 3px;
+  color: white;
+}
+
+.project-holder {
+  width: 100%;
+  height: 65%;
+  /* background-color: #bb02ff; */
+  display: flex;
+  justify-content: center;
+}
+.blue-angle {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  /* background-color: #bb02ff; */
+}
+
+.overall-4images-holder {
+  width: 100%;
+  height: 27%;
+  font-size: 27px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* font-weight: bold; */
+  /* background-color: #83db18; */
+}
+.Bring-every {
+  width: 100%;
+  height: 35%;
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  /* background-color: #dff7c0; */
+}
+.spend-holder {
+  width: 100%;
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* font-weight: bold; */
+  /* background-color: #dff7c0; */
+  text-align: center;
+}
+.st1-img {
+  width: 100%;
+  height: 60%;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: center;
+}
+
+.everything {
+  width: 100%;
+  height: 29%;
+  /* background-color: yellowgreen; */
+}
+.thing {
+  width: 100%;
+  height: 25%;
+  /* background-color: indianred; */
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 32px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.context-main {
+  width: 100%;
+  height: 40%;
+  /* background-color: indianred; */
+
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+}
+.context {
+  width: 100%;
+  height: 65%;
+  /* background-color: indianred; */
+  display: flex;
+  justify-content: center;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+}
+.Feat {
+  color: #3484ff;
+  width: 100%;
+  height: 20%;
+  /* background-color: blue; */
+  font-size: 16px;
+  cursor: pointer;
+}
+.st2-img {
+  width: 100%;
+  height: 60%;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: center;
+}
+
+.Never-holderall {
+  width: 100%;
+  height: 100vh;
+  /* background-color: yellow; */
+}
+
+.never-lose {
+  width: 100%;
+  height: 13%;
+  /* background-color: #1868db; */
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.st3-holder {
+  width: 100%;
+  height: 90%;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+}
+.st3-wrapper {
+  width: 45%;
+  height: 99%;
+  /* background-color: #83db18; */
+  border: 1px;
+}
+
+.Team-progress {
+  width: 100%;
+  height: 17%;
+  /* background-color: orange; */
+}
+.Easily-1 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  justify-content: center;
+  height: 50%;
+}
+.Track {
+  width: 100%;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.st4-holder {
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+.st4-wrapper {
+  width: 45%;
+  height: 99%;
+  /* background-color: #83db18; */
+  border: 1px;
+  position: absolute;
+}
+
+.Map {
+  width: 100%;
+  height: 17%;
+  /* background-color: orange; */
+  background-color: white;
+}
+.work {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  justify-content: center;
+  height: 30%;
+}
+.WITH {
+  width: 100%;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.big-black-bord {
+  width: 100%;
+  height: 38%;
+  background-color: black;
+  margin-top: 450px;
+}
+.divider {
+  width: 100%;
+  height: 20%;
+  /* background-color: #1868db; */
+}
+.white-big-box {
+  width: 100%;
+  height: 25%;
+  /* background-color: #a1db18; */
+}
+.Meets {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  /* background-color: aqua; */
+  font-size: 32px;
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.if {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  text-align: center;
+  /* background-color: yellow; */
+}
+.see-all {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  justify-content: center;
+
+  /* background-color: red; */
+}
+
+.bbtn {
+  width: 19%;
+  height: 85%;
+  border-radius: 30px;
+  font-size: 20px;
+}
+.bbtn:hover {
+  color: ghostwhite;
+  cursor: pointer;
+}
+.icons-part {
+  width: 100%;
+  height: 120%;
+  /* background-color: rgb(78, 204, 4); */
+}
+.Scnbig-blackbox {
+  width: 100%;
+  height: 652%;
+  /* background-color: black; */
+}
+
+.box-black {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+.for-teams {
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bolder;
+  height: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+}
+.hear-from {
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.see-more {
+  font-size: 17px;
+  font-weight: bold;
+  width: 100%;
+  height: 15%;
+  gap: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+  cursor: pointer;
+}
+.prot-wrapper {
+  width: 65%;
+  height: 70%;
+  background-color: violet;
+  display: flex;
+}
+.abt-prot {
+  height: 61%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+}
+.manager-img {
+  width: 30%;
+  height: 100%;
+  background-color: tomato;
+}
+
+.write-up {
+  width: 70%;
+  height: 100%;
+  background-color: wheat;
+  display: flex;
+  justify-content: center;
+}
+.writeup-wrapper {
+  width: 85%;
+  height: 90%;
+  background-color: white;
+}
+.Before-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45%;
+  width: 100%;
+  /* background-color: #1868db; */
+}
+.hr {
+  width: 20%;
+}
+
+.hand {
+  width: 100%;
+  height: 240%;
+  display: flex;
+  justify-content: center;
+  background-color: #1868db;
+}
+.No-matter-holder {
+  width: 45%;
+  height: 100%;
+  /* background-color: slategrey; */
+}
+.main-nomatter {
+  width: 100%;
+  height: 60%;
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 42px;
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+.hand-drive {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  /* background-color: slateblue; */
+}
+.vg {
+  width: 100%;
+  height: 30%;
+  /* background-color: yellow; */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.get-verge {
+  width: 20%;
+  font-weight: bolder;
+  height: 33%;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc400;
+  border: none;
+  cursor: pointer;
+}
+.get-verge:hover {
+  background-color: burlywood;
+}
+
+main {
+  width: 100%;
+  height: 80vh;
+  background-color: white;
+}
+header {
+  width: 100%;
+  height: 12%;
+  /* background-color: orange; */
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.h-1 {
+  width: 20%;
+  height: 100;
+  background-color: ghostwhite;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+.h-2 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+.h-3 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+  align-items: center;
+  display: flex;
+  color: black;
+}
+.h-4 {
+  width: 20%;
+  height: 100%;
+  background-color: ghostwhite;
+
+  align-items: center;
+  display: flex;
+  color: black;
+}
+
+.mama-div {
+  width: 100%;
+  height: 80%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: space-around;
+}
+
+.f-1 {
+  width: 20%;
+  height: 100%;
+  /* background-color: red; */
+  font-weight: bolder;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.f-2 {
+  width: 20%;
+  height: 100%;
+  /* background-color: blue; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.f-3 {
+  width: 20%;
+  height: 100%;
+  /* background-color: green; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.f-4 {
+  width: 20%;
+  height: 100%;
+  /* background-color: pink; */
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.ft1-wrapper {
+  width: 100%;
+  height: 98%;
+  background-color: white;
+}
+.ft2-wrapper {
+  width: 100%;
+  height: 95%;
+  background-color: white;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.ft3-wrapper {
+  width: 90%;
+  height: 90%;
+  background-color: #f8f8f8;
+  border-radius: 20px;
+}
+
+.scd-holder {
+  width: 100%;
+  height: 25%;
+  /* background-color: #1868db; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+}
+.inside-1 {
+  width: 80%;
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  align-items: center;
+}
+
+.bottom-1 {
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+  align-items: center;
+}
+
+.Linker {
+  text-decoration: none;
+}

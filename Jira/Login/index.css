@@ -1,0 +1,217 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.parent {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./jira\ background\ image.jpg);
+}
+.parentkid {
+  width: 30%;
+  height: 90%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.parentkid-wrapper {
+  width: 85%;
+  height: 90%;
+  background-color: white;
+}
+.logo-holder {
+  width: 100%;
+  height: 25%;
+  /* background-color: green; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* for the logo */
+.logo {
+  width: 28%;
+  height: 55%;
+  /* background-color: aqua; */
+
+  background-position: center;
+  background-size: cover;
+}
+.signin {
+  width: 60%;
+  height: 1%;
+  /* background-color: cadetblue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  width: 100%;
+  height: 20%;
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+/* for the button */
+.email {
+  width: 90%;
+  height: 40%;
+  /* background-color: pink; */
+}
+input {
+  width: 99%;
+  height: 90%;
+  border-radius: 5px;
+  border: 1px solid skyblueS;
+}
+.continue-button {
+  width: 90%;
+  height: 40%;
+  color: white;
+  /* background-color: rebeccapurple; */
+  text-decoration: none;
+}
+.blue-button {
+  width: 100%;
+  height: 95%;
+  border-radius: 5px;
+  background-color: #1a73e8;
+  color: white;
+  font-size: medium;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+}
+.blue-button:hover {
+  background-color: #0055cc;
+  transition: all 150ms;
+}
+.typeof-account {
+  width: 100%;
+  height: 45%;
+  /* background-color: yellow; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+}
+/* for the  type of acccount butttons */
+.continue-with {
+  width: 50%;
+  height: 12%;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  color: gray;
+  font-size: medium;
+  font-weight: bold;
+}
+.google {
+  width: 90%;
+  height: 19%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  /* background-color: greenyellow; */
+}
+.microsoft {
+  width: 90%;
+  height: 19%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  /* background-color: red; */
+}
+.apple {
+  width: 90%;
+  height: 19%;
+  /* background-color: brown; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.slack {
+  width: 90%;
+  height: 19%;
+  /* background-color: purple;  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+button {
+  width: 100%;
+  height: 95%;
+  border-radius: 5px;
+  background-color: white;
+  font-size: medium;
+  font-weight: bolder;
+  cursor: pointer;
+  border: 1px solid gray;
+}
+.create-account {
+  width: 100%;
+  height: 10%;
+  /* background-color: chartreuse; */
+}
+.account {
+  width: 100%;
+  height: 40%;
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.line {
+  width: 90%;
+  margin-left: 20px;
+  height: 20%;
+  margin-top: 5px;
+  /* background-color: pink; */
+}
+
+hr {
+  color: gray;
+}
+
+.verge-2 {
+  width: 100%;
+  height: 40%;
+  /* background-color: pink; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Linker {
+  text-decoration: none;
+  color: white;
+}

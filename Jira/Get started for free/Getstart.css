@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Main {
+  width: 100%;
+  height: 200vh;
+  background-color: white;
+}
+
+.Getstarted {
+  height: 130vh;
+  width: 100%;
+  /* background-color: aquamarine;  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  height: 115vh;
+  width: 40vw;
+  /* background-color: red;  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: solid rgb(165, 164, 164) 2px; */
+}
+
+.Wrapper {
+  height: 90%;
+  width: 90%;
+  /* background-color: orange;  */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 13px;
+  font-weight: 50px;
+  color: rgb(79, 79, 79);
+}
+
+input {
+  padding: 10px 10px;
+  width: 350px;
+  border-radius: 5px;
+  box-shadow: 2px 2px gray;
+  outline: none;
+}
+p {
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.GEtstarg {
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+}
+
+.Ferm {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.Ferm1 {
+  text-align: center;
+}
+.LOgo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+input {
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+.h {
+  color: white;
+  font-weight: 700px;
+  cursor: pointer;
+}
+
+.sighy {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  color: white;
+}
+.h {
+  padding: 10px 10px;
+  width: 600px;
+  background-color: rgb(44, 44, 218);
+  border-radius: 4px;
+  margin-bottom: 10px;
+  border: 2px;
+  box-shadow: 3px 3px rgb(133, 133, 133);
+}
+
+.firstline {
+  width: 10px;
+  background-color: black;
+  height: 1px;
+}
+.secondline {
+  width: 10px;
+  height: 1px;
+}
+.lineholder {
+  width: 100%;
+  height: 1px;
+  display: flex;
+  background-color: black;
+  justify-content: space-around;
+  align-items: center;
+}
+.sam {
+  background-color: white;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+}
+a {
+  color: blue;
+}
+
+.deb {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.b9 {
+  padding: 7px 7px;
+  width: 210px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  border: 2px;
+  cursor: pointer;
+  box-shadow: 3px 3px rgb(104, 104, 104);
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.MS {
+  margin-top: 5px;
+}
+.fag {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+}
+.Linker {
+  text-decoration: none;
+  color: white;
+}
